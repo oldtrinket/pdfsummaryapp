@@ -70,8 +70,12 @@ if __name__ == '__main__':
     # Create and show main window
     app = QApplication([])
     main_window = MainWindow()
-    main_window = MainWindow()
     app.exec_()
+
+#make variable a and assign a value of 4 then print the result
+
+
+
    
     
     
